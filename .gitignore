@@ -1,0 +1,30 @@
+# Patient personal data - not for GitHub
+data/
+dataset/
+visualization/
+
+# Temporary / interim files - not for GitHub
+temp/
+checkpoint.pt
+
+# Large binary / profiling outputs
+*.qdrep
+*.nsys-rep
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
