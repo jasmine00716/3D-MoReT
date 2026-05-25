@@ -61,7 +61,7 @@ Evaluated on 337 test subjects from two medical centers (CMC, KU).
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/3D-MoReT.git
+git clone https://github.com/jasmine00716/3D-MoReT.git
 cd 3D-MoReT
 pip install -r requirements.txt
 ```
