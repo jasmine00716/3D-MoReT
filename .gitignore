@@ -7,6 +7,12 @@ visualization/
 temp/
 checkpoint.pt
 
+train_script2.py
+train_script_mra.py
+config_mra.py
+config_mrod.py
+config_unext.py
+
 # Large binary / profiling outputs
 *.qdrep
 *.nsys-rep
@@ -28,3 +34,6 @@ __pycache__/
 
 # OS
 .DS_Store
+
+# Claude
+.claude

@@ -1,5 +1,5 @@
 # 3D-MoReT — 3D Mobile Regression Vision Transformer
-### Rapid 5-phase Collateral Map Generation from DSC-MR Perfusion in Acute Ischemic Stroke
+### 5-phase Collateral Map Generation from DSC-MR Perfusion in Acute Ischemic Stroke
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.12.1-ee4c2c?logo=pytorch)](https://pytorch.org/)
